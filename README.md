@@ -1,3 +1,3 @@
 # SpringBoot_Vaadin
 
-# SpringBoot with Vaadin
+Examples SpringBoot with Vaadin
